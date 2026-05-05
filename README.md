@@ -32,6 +32,15 @@ Projektissa käytetään Python 3.12 + uv dependency manager -ympäristöä.
 
 ## 📦 Asennus
 
+Kloonaa projekti
+
+```bash
+git clone https://github.com/agrinsadon/internal-ai.git
+cd internal-ai
+```
+
+---
+
 Asenna riippuvuudet:
 
 ```bash
